@@ -1,3 +1,18 @@
 *{
     font-family: sans-serif;
 }
+
+img{
+    background-color: red;
+    display: block;
+    width: 100px;
+    padding: 5px 10px 15px 20px; /* reloj desde las 12 */
+    border: 1px #06F dashed;
+    margin: 10px auto;
+}
+
+
+
+
+
+
