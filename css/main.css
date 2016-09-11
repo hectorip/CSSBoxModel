@@ -6,9 +6,16 @@ img{
     background-color: red;
     display: block;
     width: 100px;
+    height: 200px;
     padding: 5px 10px 15px 20px; /* reloj desde las 12 */
     border: 1px #06F dashed;
-    margin: 10px auto;
+    margin: 10px;
+    float: left;
+}
+
+#img-azul{
+    background: blue;
+    display: inline-block;
 }
 
 
